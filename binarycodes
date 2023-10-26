@@ -1,4 +1,4 @@
-number = int(input("Enter the binary digit you wanna change pls dont leave blank lines between: ")
+number = int(input("Enter the binary digit you wanna change pls dont leave blank lines between: "))
 res = 0
 loop = 0
 while number>0:
